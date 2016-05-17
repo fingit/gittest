@@ -1,5 +1,5 @@
 
-Changes made in branch v3
+Changes made in branch v4
 
 
 Clone a repo:
@@ -48,7 +48,7 @@ Pushes the new_branch locally to remote repository origin
 
 
 git checkout -b your_branch
-This creates a branch instance of the repo
+This creates and checks out a new branch instance 
 
 
 git checkout jonathan
