@@ -14,10 +14,7 @@ This shows which file are new (not yet in the index) or have changed (need to be
 
 
 git add [filename]
-This adds the file to the index so that it is tracked.
-
-git add .
-
+This adds the file to the index so that it is tracked/staged. 
 
 
 git commit -a -m “Message”
