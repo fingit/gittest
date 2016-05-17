@@ -1,0 +1,88 @@
+
+
+Clone a repo:
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+
+
+See what has changes:
+git status
+
+
+This shows which file are new (not yet in the index) or have changed (need to be updated in the index)
+
+
+git add [filename]
+This adds the file to the index so that it is tracked.
+
+git add .
+
+
+
+git commit -a -m “Message”
+This commits the file to the index so that is it staged.
+
+
+git remote set-url origin https://fingit@github.com/fingit/gittest.git
+This lets git know that you want to point to a remote directory to publish to and get permission.
+Error 403
+
+
+git push origin master:
+This takes your local master branch and pushes the changes up onto the remote master branch on github
+
+
+Branching
+
+git branch
+See what branches you have
+
+
+git branch new_branch
+Create a new branch in your local repository
+
+
+git push origin new_branch
+Pushes the new_branch locally to remote repository origin
+
+
+git checkout -b your_branch
+This created a branch instance of the repo
+
+
+git checkout jonathan
+Switch to another branch
+
+git branch -a
+Show all branches (local and remote)
+
+git branch -r 
+Show remote branches
+
+
+
+git pull origin master
+Update local branch with master branch
+
+
+git push origin jonathan
+Update local branch with remote
+
+
+
+git branch -d the_local_branch
+delete local branch
+
+git push origin --delete your_branch
+delete remote branch
+
+
+
+
+Delete a file in your repo
+git rm file1.txt
+git commit -m "remove file1.txt"
+
+
+git log -1 
+See the last commit
+
