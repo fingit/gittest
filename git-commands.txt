@@ -46,7 +46,7 @@ Pushes the new_branch locally to remote repository origin
 
 
 git checkout -b your_branch
-This created a branch instance of the repo
+This creates a branch instance of the repo
 
 
 git checkout jonathan
@@ -57,7 +57,6 @@ Show all branches (local and remote)
 
 git branch -r 
 Show remote branches
-
 
 
 git pull origin master
@@ -74,8 +73,6 @@ delete local branch
 
 git push origin --delete your_branch
 delete remote branch
-
-
 
 
 Delete a file in your repo
