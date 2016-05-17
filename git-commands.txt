@@ -1,5 +1,5 @@
 
-Changes made in branch a_new_feature
+LEARNING COMMON GIT COMMANDS
 
 
 Clone a repo:
