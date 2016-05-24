@@ -74,6 +74,11 @@ git push origin --delete your_branch
 delete remote branch
 
 
+git branch -dr origin your_branch
+delete remote branch
+
+
+
 Delete a file in your repo
 git rm file1.txt
 git commit -m "remove file1.txt"
@@ -87,6 +92,7 @@ See the last commit
 To merge changes in a feature branch with master
 1. Checkout master: git checkout master
 2. Merge feature branch into master: git merge feature_branch
+
 
 
 git blame <file>
