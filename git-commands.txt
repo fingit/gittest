@@ -74,8 +74,6 @@ git push origin --delete your_branch
 delete remote branch
 
 
-git branch -dr origin your_branch
-delete remote branch
 
 
 
