@@ -89,4 +89,8 @@ To merge changes in a feature branch with master
 2. Merge feature branch into master: git merge feature_branch
 
 
+git blame <file>
+See who changed what and when
+
+
 
