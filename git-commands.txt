@@ -98,3 +98,8 @@ See who changed what and when
 
 
 
+git diff --stat --cached origin/master
+How can I see what I am about to push with git?
+
+
+
