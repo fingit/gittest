@@ -1,2 +1,2 @@
-# git-notes
-Learning about git
+Testing git commands
+
