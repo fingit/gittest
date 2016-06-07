@@ -1,6 +1,6 @@
 
 LEARNING COMMON GIT COMMANDS
-JONATHAN BRANCH TEST 
+Testing git bits
 
 Clone a repo:
 git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
