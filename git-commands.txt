@@ -1,6 +1,6 @@
 
 LEARNING COMMON GIT COMMANDS
-MASTER BRANCH TEST - CHANGES
+Testing git bits
 
 Clone a repo:
 git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
@@ -71,7 +71,7 @@ git branch -d the_local_branch
 delete local branch
 
 git push origin --delete your_branch
-delete remote branch
+delete the remote branch
 
 
 
