@@ -71,7 +71,7 @@ git branch -d the_local_branch
 delete local branch
 
 git push origin --delete your_branch
-delete remote branch
+delete the remote branch
 
 
 
